@@ -17,7 +17,7 @@ This course covers continuous integration and continuous deployment (CI/CD) pipe
 
 - A source code management tool :
   - Git Bash for CLI guys :sunglasses:
-  - [Fork](https://git-fork.com/) for GUI guys :star:
+  - [Fork](https://git-fork.com/) for GUI guys :star::
 
 - **[Optional]** IDEs to build the app locally : 
   - Visual Studio Community with .Net 9 SDK (Backend)
